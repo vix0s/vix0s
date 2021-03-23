@@ -1,3 +1,6 @@
 # Programador Web
 
-Actualmente aprendiendo HTML, CSS y JS
+Actualmente aprendiendo
+- HTML
+- CSS
+- JS
